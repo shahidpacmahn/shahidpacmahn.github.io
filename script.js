@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // --- Typing Animation for Homepage ---
     const typingTextElement = document.querySelector('.typing-text');
     if (typingTextElement) {
-        const texts = ["Master's Student in Electromobility.", "AI & E-Powertrain Specialist.", "Full-Stack Developer."];
+        const texts = ["a Master's Student in Electromobility.", "an AI and EV enthusiast.", "a Web Developer."];
         let textIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
