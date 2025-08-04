@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         hamburger.classList.toggle('active');
     });
 
-    // --- Typing Animation for Homepage ---
+    // --- Typing Animation for Homepages ---
     const typingTextElement = document.querySelector('.typing-text');
     if (typingTextElement) {
         const texts = ["a Master's Student in Electromobility.", "an AI and EV enthusiast.", "a Web Developer."];
